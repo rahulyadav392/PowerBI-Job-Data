@@ -1,5 +1,7 @@
 # Data Jobs Dashboard with Power BI 
 
+![Dashboard Overview](Assets/Project1_Dashboard_Overview.gif)
+
 ## Overview
 This repository contains an interactive Power BI dashboard developed to analyze trends in the global data job market using real-world 2024 job posting data. The project was built to strengthen hands-on Power BI skills by working through the complete business intelligence lifecycle—from data preparation to insight-driven visualization.
 
