@@ -3,19 +3,19 @@
 ![Dashboard Overview](Assets/Project1_Dashboard_Overview.gif)
 
 ## Overview
-This repository contains an interactive Power BI dashboard developed to analyze trends in the global data job market using real-world 2024 job posting data. The project was built to strengthen hands-on Power BI skills by working through the complete business intelligence lifecycle—from data preparation to insight-driven visualization.
+This repository contains an interactive Power BI dashboard developed to analyze trends in the global data job market using job posting data scrapped through various job portals in 2024. The project was built to strengthen hands on Power BI skills by working through the complete business intelligence lifecycle, i.e from data preparation to driving ingights via visualization.
 
-The dashboard consolidates fragmented job market information such as job titles, salaries, locations, and hiring platforms into a single, intuitive interface. It enables users to explore market demand, compensation patterns, and geographic distribution through dynamic filters and drill-through analysis.
+The dashboard consolidates fragmented job market information such as job titles, salaries, locations, and hiring platforms into a single, intuitive interface. It enables users to explore market demand, compensation patterns, and geographic distribution through dynamic filters and using PowerBI's drill-through feature for deeper analysis.
 
 ## Project Objective
 
 - Translate raw job posting data into actionable insights
 - Demonstrate practical Power BI capabilities used in real analytics roles
-- Build an interactive report that supports exploration, comparison, and decision-making
+- Build an interactive report that supports exploration, comparison, and decision making
 
 ## Data Set 
 
-- Global data-related job postings (2024)
+- Global data related job postings (2024)
 - Includes job titles, salary information, locations, work mode, and hiring platforms
 
 ## Skills Showcased
@@ -36,22 +36,22 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ## Dashboard Overview
 
-*This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.*
+*This report is split into two distinct pages to provide high level market analysis and role specific deep dives.*
 
 ### Page 1: High-Level Market View
 
 ![Project1_Dashboard_Page1](Assets/Project1_Dashboard_Page1.gif)
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This page provides an executive summary of the data job market. It highlights key KPIs such as total job count, median salary, and the job titles that are in demand, enabling users to quickly assess overall market trends and compensation patterns.
 
 ### Page 2: Job Title Drill Through
 
 ![Project1_Dashboard_Page2](Assets/Project1_Dashboard_Page2.gif)
 
-This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+This page enables detailed, role-level analysis through drill-through functionality. Users can navigate from the summary view to explore a specific job title, including salary distribution, remote work availability, top hiring platforms, and global job location trends.
 
 ---
 
 ## Conclusion
 
-This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+This dashboard demonstrates how Power BI can be used to convert raw job posting data into a structured, interactive analytical tool. By combining drill-through navigation, dynamic filtering, and clear visual design, the report supports informed career and market analysis while showcasing practical Power BI capabilities.
