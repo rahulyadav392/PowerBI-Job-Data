@@ -1,7 +1,20 @@
 # Data Jobs Dashboard w/ Power BI 
 
-## Introduction
-This dashboard was created for Job Seekers, Job Transitioners, and Job Swappers to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+## Overview
+This repository contains an interactive Power BI dashboard developed to analyze trends in the global data job market using real-world 2024 job posting data. The project was built to strengthen hands-on Power BI skills by working through the complete business intelligence lifecycle—from data preparation to insight-driven visualization.
+
+The dashboard consolidates fragmented job market information such as job titles, salaries, locations, and hiring platforms into a single, intuitive interface. It enables users to explore market demand, compensation patterns, and geographic distribution through dynamic filters and drill-through analysis.
+
+## Project Objective
+
+- Translate raw job posting data into actionable insights
+- Demonstrate practical Power BI capabilities used in real analytics roles
+- Build an interactive report that supports exploration, comparison, and decision-making
+
+## Data Set 
+
+- Global data-related job postings (2024)
+- Includes job titles, salary information, locations, work mode, and hiring platforms
 
 ## Skills Showcased
 
